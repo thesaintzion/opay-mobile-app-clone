@@ -6,7 +6,7 @@ const Login = ({navigation}) => {
     return (
         <View style={STYLES.container}>
       <Text>Login</Text>
-    <Button  onPress={() => navigation.navigate('Home')} title="To to Dashboard"></Button>
+    <Button  onPress={() => navigation.navigate('Dashboard')} title="To to Dashboard"></Button>
     </View>
     )
 }
