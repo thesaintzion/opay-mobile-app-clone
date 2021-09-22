@@ -9,6 +9,6 @@ const Friends = () => {
     )
 }
 
-export default Friends
+export default Friends;
 
 const styles = StyleSheet.create({})
